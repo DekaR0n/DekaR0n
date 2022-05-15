@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in Frontend development, Web design
 - 
-- 🌱 I’m currently learning HTML, CSS, JS, ReactJS, NodeJS, Django, Java
+- 🌱 I’m currently learning HTML, CSS, JS, ReactJS, NodeJS, Django, React-Redux
 - 
 - 📫 How to reach me ...
 - 
