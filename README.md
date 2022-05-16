@@ -8,7 +8,7 @@
 - 
 - 🎍 Learning Japanese and Chinese
 - 
-- 👾 Itnteresting in Unity development and 3D design 👾
+- 👾 Also interested in Unity development and 3D design 👾
 
 <!---
 DekaR0n/DekaR0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
